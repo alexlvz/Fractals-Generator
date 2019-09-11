@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FRACTALS</string>
+    <string-array name="fractals">
+        <item>SquareFractal</item>
+        <item>CircleFractal</item>
+    </string-array>
+</resources>
